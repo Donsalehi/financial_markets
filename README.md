@@ -12,7 +12,7 @@ Pearson Correlation Result: 0.1925640739859808
 
 ## API Information
 
-This project utilizes the Alpha Vantage API to fetch historical cryptocurrency data. Note that free-tier API keys limited to 25 requests per day
+This project utilizes the Alpha Vantage API to fetch historical cryptocurrency data. Note that free-tier API keys limited to 25 requests per day.
 
 ## Technologies Used
 
