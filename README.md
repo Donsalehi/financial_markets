@@ -6,7 +6,7 @@ This project fetches cryptocurrency market data from the Alpha Vantage API and p
 
 ## Example Outputs
 
-![](C:\Users\padide\Desktop\python\financial_markets\Figure_4.png)
+![Figure_4](https://github.com/user-attachments/assets/47f4370e-1ded-4e00-994a-1dcdf5b3ade3)
 
 Pearson Correlation Result: 0.1925640739859808
 
